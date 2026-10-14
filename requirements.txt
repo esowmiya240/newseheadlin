@@ -1,4 +1,0 @@
-Flask
-torch
-transformers==4.46.3
-sentencepiece
